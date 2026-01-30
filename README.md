@@ -33,7 +33,7 @@ I'm an **ADS (Systems Analysis and Development)** student who actually enjoys ge
 ---
 
 ### 🌱 Current Focus:
-Learning more about **Software Engineering** and looking for my first real-world **Internship**.
+Looking for my first Internship to apply my skills to real-world projects.
 
 📫 **Find me here:**
 https://www.linkedin.com/in/luiz-otavio-mello-de-campos-66699224b/
