@@ -1,13 +1,13 @@
 # Hey, I'm Luiz Otávio! 👋
 
-I'm an **ADS (Systems Analysis and Development)** student who actually enjoys getting my hands dirty with code. I like building things that work, from solid back-end logic to clean front-end interfaces.
+I'm an **ADS (Systems Analysis and Development)** student focus on building things that work, from solid back-end logic to clean front-end interfaces.
 
-### 🛠️ What I've been working with:
 ### 🛠️ Tech Stack & Tools:
 
 **Frontend & Languages:**
 ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -24,11 +24,11 @@ I'm an **ADS (Systems Analysis and Development)** student who actually enjoys ge
 
 ### 📂 Real Projects:
 
-* **🍷 Wine E-commerce:** A full-blown store built with **React** and **Laravel**. I used **PostgreSQL** to handle the data and focused on making the whole flow feel smooth.
+* **Wine E-commerce:** A full-blown store built with **React** and **Laravel**. I used **PostgreSQL** to handle the data and focused on making the whole flow feel smooth.
   
-* **💸 Expense Tracker:** A simple, fast financial tool using **Node.js** and **React**. No fluff, just performance.
+* **Expense Tracker:** A simple, fast financial tool using **Node.js** and **React**. No fluff, just performance.
 
-* **🎮 Just for Fun:** I've also built some games and landing pages using vanilla JS to make sure my fundamentals are solid before jumping into frameworks.
+* **Just for Fun:** I've also built some games and landing pages using vanilla PHP and JS to make sure my fundamentals are solid before jumping into frameworks.
 
 ---
 
@@ -36,4 +36,4 @@ I'm an **ADS (Systems Analysis and Development)** student who actually enjoys ge
 Looking for my first Internship to apply my skills to real-world projects.
 
 📫 **Find me here:**
-https://www.linkedin.com/in/luiz-otavio-mello-de-campos-66699224b/
+[LinkedIn](https://www.linkedin.com/in/luiz-otavio-mello-de-campos-66699224b/)
